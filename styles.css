@@ -1,0 +1,56 @@
+body {
+    background-color: purple;
+    text-align: center;
+    font-family: sans-serif;
+   
+}
+
+h1 {
+    color: lavender;
+    font-family:cursive;
+}
+
+.friend {
+    color: purple;
+    border: solid 1px purple;
+    border-radius: 4em;
+}
+
+.friend > h3 {
+    text-transform: uppercase;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.friend {
+    padding: 10px;
+    margin: 8em 8em;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    background-color:plum
+}
+
+/* p {
+    margin: auto;
+    padding: 8px;
+} */
+
+.singButton {
+background-color: plum;
+color: purple;
+font-family: cursive;
+}
+
+/* #sing-box {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+    margin: 2em;
+    color: white;
+    font-size: 1.5em;
+} */
+
+
+
